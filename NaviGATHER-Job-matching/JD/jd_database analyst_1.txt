@@ -1,0 +1,79 @@
+Job Title	Programmer/Analyst - Remote
+Vacancy No	VN7573
+Company Name	Compugen Inc
+Work Location	Any location Canada
+Base Pay Range	$75-$90 Hourly (Note: This range is not applicable to Independent Contractors.)
+Job Details	
+
+Compugen is Canada's largest privately-owned Technology Ally. To innovate industries, transform businesses, connect communities, and drive meaningful change, we must think bigger, reach broader, and act bolder. Through knowledge, curiosity, and collaboration, Compugen helps organizations delivering experience by design. This is what it means to be human-centered and technology-enabled.
+
+Dreaming, designing, and delivering isn't just a mantra for us — it's a way of life. We believe that technology is the conduit, but our people – they are the connection that truly makes the magic happen!
+ 
+Our Culture
+We are a human-centered culture where we prioritize your well-being and are invested in helping you reach your fullest potential. We're not only focused on achieving our goals — we're dedicated to helping you achieve yours.
+
+If you're relentlessly curious, driven to make a difference, and collaborative at the core, then you belong with us.
+ 
+Position Overview:
+Compugen is seeking a Programmer Analyst with experience with Duck Creek for an initial 7 month contract working remotely. 
+Candidates must currently reside within Canada and available to work in CT.
+Key Responsibilities:
+Responsibilities:
+ 
+Gather and analyze information and business requirements for the development of secure functional and system design specifications. 
+Liaise with users to determine appropriate solutions.
+Create and modify code, screens and reports according to published standards and considering the Information Management and Information Protection requirements for the system. 
+Creates and executes simple to moderately complex SQL queries for reporting, analysis, data patches and system testing for specific production support applications.
+Create and modify screens and reports. 
+Develop secure application code that is integrated with other customized or commercial software programs. 
+Design code and procedures for computer systems of varying sizes. 
+Develop/maintain, test and implement computer systems of varying sizes. Produce/modify forms, manuals, programs, data files, and procedures for systems and/or applications. 
+Verify accuracy and completeness of programs by preparing test plans and sample data, and testing them by means of unit, functional, integration, system and user acceptance testing.
+Complete quality and peer reviews as required, to ensure high quality technical deliverables and documentation.
+Assist with the implementation and secure integration of applications including Vulnerability Assessments and Transition Procedures.
+
+General
+Reporting to a Team Lead, providing updates and status, tracking time against work items
+Working knowledge of general insurance terminology and practices is an asset
+
+
+Duck Creek
+Advance knowledge of Duck Creek modules Billing and Policy
+Advance knowledge on best practices of Duck Creek configuration and customization changes
+Advance knowledge of the Azure DevOps + Octopus or DCODCH Deployments process for Duck Creek and related components
+Advance knowledge of GITHub code management practices including packaging and maintaining and improving the codebase and branching strategy.
+Advance knowledge of tools such as Duck Creek OnDemand Control Hub and Duck Creek ServiceNow
+Advance knowledge of the Duck Creek Batch and how to create new, support and modify OOTB batch job
+Knowledge of the scheduling tool Dollar Universe is an asset.
+Intermediate knowledge of APIs and software integration.
+Ability to diagnose application issues and to decide what can be done with low code instead of traditional coding, delivering solutions to the client with minimal traditional coding needed.
+Need a minimum of 5-7 years of Duck Creek Experience
+Experience with Duck Creek version 8.0.4 or later
+Developers will need Duck Creek certification
+Insights database (including patching), batch, SSIS package, reporting, and Extract Mapper knowledge is required
+
+
+Skills
+Analysis
+Possess the ability to assess business requirements, perform impact analysis against the existing system and provide analysis on integrating business change.
+Demonstrated ability to create Design Specifications based on System Use Cases, User Stories, Business Use Cases, and/or Requirements Documents.
+Translate business requirements into systems design and technical specifications.
+Work with developers to model and produce functional prototype and an operational system including all forms, manuals programs, data files and procedures.
+Provide expert consultation in production system analysis, performance, scalability security and maintenance.
+Define input/output sources including a detailed plan for technical design phase.
+Participates in sprint and cycle planning with the agile team.
+Validates proposed solution for alignment to business needs, requirements, and impacts to operations, processes, technology, vendors, partners and clients.
+
+Development / Design
+Document systems design, concepts and facilities, present and obtain approval for detailed system design.
+Define and document all systems components, their interfaces and operational environment.
+Define data structures and files, sub-systems and modules, programs, batch, online, production monitoring procedures, testing strategy and systems.
+Analyze and resolve configuration issues in a timely manner.
+Investigates, troubleshoots, and resolves problems within Duck Creek applications, services, and integrations. 
+Analyze functional requirements to identify information, procedures and decisions flows and recommend alternatives for solutions.
+Adhering to governance, standards and best practices of the software platform
+Ensures accuracy and integrity of data and applications through analysis, clear documentation, and problem resolution.
+Performs break/fix support, regression testing, and supports the inbound/outbound interfaces to various systems and middleware.
+
+Equity Statement
+At Compugen, we're committed to diversity, equity and inclusion, actively recruiting from all groups. We provide accommodation upon request to all applicants during the recruitment process. At Compugen, we believe that everyone deserves a seat at the table. If you require an accommodation, our People & Culture representative will work with you to meet your needs.

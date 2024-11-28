@@ -1,0 +1,54 @@
+Data modeler with oracle, pl/sql, exadata- job post
+Atlantis IT group
+Toronto, ON
+Atlantis IT group
+Toronto, ON
+Profile insights
+Here’s how the job qualifications align with your profile.
+Skills
+
+SQL
+
+PL/SQL
+
+Oracle
+
+Do you have experience in SQL?
+&nbsp;
+Location
+Toronto, ON
+&nbsp;
+Full job description
+Role: Data modeler with oracle, pl/sql, exadata
+Location: Toronto
+Role name: Modeller
+Role Description: a. Data Engineer (Modeler)Database Design, Oracle Exadata, complex SQL and PL/SQL, DDL.b. Database Design, Oracle Exadata, complex SQL and PL/SQL, DDL
+Oracle PL/SQL Developer 
+Created PL/SQL stored procedures, triggers and packages and created scripts for purging of data. 
+-Created cursor, collections and database triggers for maintaining complex integrity constraints 
+and implement the complex business rules. 
+-Developed sql scripts for creating database objects such as tables, views and sequences. 
+-Created SQL*Loader and UNIX scripts as a part of data load process to load external data into 
+Oracle database tables.  
+-Work with Oracle Data Pump (expdp and impdp) which provides high speed, parallel, bulk data 
+and metadata movement of Oracle database contents. 
+-Experience in using hints to direct the optimizer to choose an optimum query execution plan 
+-Involved in preparing the test scenarios and performed unit tests on PL/SQL programs 
+-Experience in Atlassian products such as BitBucket, JIRA, Confluence, SourceTree, and Bamboo. 
+-Experience in all phases of Software Development Life Cycle (SDLC) such as Requirement 
+gathering, Analysis, Development, Testing, Implementation and Support. 
+-Extensive experience in Data migration techniques using External tables, import and 
+export, SQL*loader, bulk and batch processing. 
+-Validated and loaded data into Oracle Database using DB links and external tables from CSV files. 
+-Worked in Agile environment and participated in day to day processes like scrums and sprints 
+using Rally. 
+-Worked with dev-ops team for flyway migration in different Dev and stage environments and 
+solve complex problem during migration.  
+ Created indexes on the tables for faster retrieval of the data to enhance database performance. 
+- Used Bulk Collections for better performance and easy retrieval of data, by reducing context 
+switching between SQL and PL/SQL engines. 
+- Created records, tables, collections (nested tables and associative arrays) for improving Query 
+performance by reducing context switching. 
+- Involved in optimizing database performance by analyzing database objects, creating indexes, 
+creating materialized views etc.  
+Competencies: Data Concepts & Data Modelling

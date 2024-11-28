@@ -1,0 +1,148 @@
+Senior Data Engineer- job post
+Ontario Health
+3.4
+3.4 out of 5 stars
+Toronto, ON•Hybrid work
+Full-time
+Ontario Health
+Toronto, ON•Hybrid work
+Profile insights
+Here’s how the job qualifications align with your profile.
+Skills
+
+UNIX
+
+Software development
+
+Shell Scripting
++ show more
+
+Do you have experience in UNIX?
+Education
+
+Master's degree
+
+Bachelor's
+
+Do you have a Master's degree?
+Languages
+
+French
+
+Do you know French?
+&nbsp;
+Job details
+Here’s how the job details align with your profile.
+Job type
+
+Full-time
+&nbsp;
+Location
+Toronto, ON•Hybrid work
+&nbsp;
+Benefits
+Pulled from the full job description
+Dental care
+Vision care
+&nbsp;
+Full job description
+At Ontario Health, we are committed to developing a strong organizational culture that connects and inspires all team members across the province. Our vision is that together, we will be a leader in health and wellness for all. Our mission is to connect the health system to drive improved and equitable health outcomes, experiences and value. How we work together is reflected through our five values: integrity, inspiration, tenacity, humility and care.
+What Ontario Health offers:
+
+Achieving your career goals is a priority to us. Benefits of working at Ontario Health may include the following based on employment type:
+
+Fully paid medical, dental and vision coverage from your first day
+Health care spending account
+Premium defined benefit pension plan
+3 personal days and 2 float days annually
+Individual contributors start at 3 weeks’ vacation, and 4 weeks at 2 years
+Career development opportunities
+A collaborative values-based team culture
+Wellness programs
+A hybrid working model
+Participation in
+Communities of Inclusion
+
+
+Want to make a difference in your career? Consider this opportunity.
+Data Engineer II is responsible for the design, development (new and upgrades), and support of data platforms and related components including schemas, reports, ETL packages/data transformation routines, stored procedures, and archival processes amongst others. As part of this role, the Data Engineer gathers and reviews requirements, plays an active role and takes the lead in designing and selecting appropriate solutions, writes and implements efficient solutions, identifies any risks and issues, and evaluates impact and supports the testing, productization, and release processes. A strong collaborative working relationship with the Architects, Software Engineers, Quality Engineers, and other team members is essential.
+
+Here is what you will be doing:
+Provides guidance, expertise, and mentoring to the Data Engineer I to discuss specific engineering practices and problems that may arise during day-to-day work.
+Provides context and perspective to their fellow Data Engineer I and Data Engineer II colleagues regarding engineering design decisions as well as business requirements that influence implementation details.
+Ensures a consistent approach to executing work assignments in a timely and competent manner.
+Accountable for workload, tasks and initiatives and for service quality within assigned work and within direct scope of operations.
+Recommends changes across the team's engineering practices as well as external team practices to improve the team's cycle time as well as lead time for the team's product backlog.
+Collaborating with Quality Assurance, DBAs and Release management teams for implementation.
+Leads change processes for the adoption of new engineering practices across the team.
+Independently engages and actively participates in team discussion with product management teams to recommend product features and changes to product features to improve the user experience, operation and maintainability of the product.
+Works with a high level of autonomy within a defined project/solution/system scope based on direction from Lead Engineers, Architects, and Product Managers.
+Participates in the development of engineering plans and systems specifications with Lead Engineers.
+Collaborates with internal peers to ensure alignment of practices, patterns and solutions.
+Ensures work aligns to broader roadmaps and systems strategies.
+Stays abreast of evolving technology, architecture, and design, patterns, practices, and platforms.
+Occasionally has cross-portfolio and external stakeholder interactions.
+Makes decisions where results have major impact across the organization requiring sophisticated solutions and long-term correction.
+Provides work estimates for their own development tasks and verifies works estimates of others development tasks on project plans.
+Provides updates on tasks via discussions and status reports.
+Identifies risks and escalates to project leadership on a timely basis.
+Maintain up-to-date knowledge of emerging tools, including investigation and guidance with new/emerging technologies (POCs), and applying them to data engineering solutions as appropriate.
+Responsible for creating detailed technical documentation for end users.
+Here is what you will need to be successful:
+
+Education and Experience
+Bachelor’s or Master’s degree in Computer Science, Information Technology, Computer Engineering or related field or equivalent experience.
+5 - 7 years of extensive relevant technical experience developing data platforms solutions.
+Experience with Informatica PowerCenter.
+Experience using Informatica Intelligent Cloud Services (IICS), Big Data Management.
+Experience with relational database systems: Oracle and SQL Server.
+Experience in designing, developing and implementing data solutions in Cloud, preferably Microsoft Azure: Synapse, Databricks, including storage in Azure Data Lake (Gen 2).
+Experience in Windows PowerShell and Unix/Linux Bash shell scripting.
+In-depth knowledge of software development and software development Life Cycle (SDLC).
+Strong knowledge of agile development practices.
+In-depth knowledge of data models, data mining, and segmentation techniques.
+Strong knowledge of relevant programming languages (e.g., Python, Java, etc.).
+Strong knowledge of relevant data query languages (e.g., SQL, KQL, etc.).
+In-depth knowledge of relevant data manipulation techniques.
+Strong knowledge of data analytics techniques.
+In-depth knowledge of database design using relational, document, object, big data, tabular, and other platform types.
+Strong operational knowledge of relevant data platforms in on-premises environments and cloud platforms.
+Excellent knowledge of best practices related to product deployment, operations, and support of databases and pipelines.
+Excellent knowledge of data security and data protection mechanisms.
+Strong knowledge and understanding of data management authorities and legislation relevant to health care in Ontario.
+
+Knowledge and Skills
+Strong written and oral communication skills to provide guidance and mentoring to staff; communicate technical direction; discuss and incorporate stakeholder’s feedback; communicate issues found and solutions clearly; create data mapping documentation; engage with the team and with product groups.
+Strong debugging, problem-solving, and analytical skills to identify and gather; requirements; translate requirements into data systems and pipelines; assess and improve data query and pipeline performance; identify impact of changes to existing solutions or data assets; identify risks.
+Ability to use relevant software tools, frameworks, and platforms to develop databases and data movement pipelines on-premises and in the cloud to meet identified business requirements and architectural specifications.
+Ability to perform quality assurance testing, data integrity validation, and risk assessment.
+Ability to apply data security and data protection mechanisms.
+Ability to develop control documentation and create run books to support product operations.
+Strong presentation and negotiation skills.
+Capability to design and develop complex, large scale, and multi-platform environments.
+Strong research and analysis skills.
+Ability to maintain in-depth knowledge of data engineering platforms and technologies.
+Ability to work closely with members of the product team, and other teams such as IT Operations, Cloud Centre of Excellence, Architecture and Security to ensure data services are implemented efficiently and securely
+Ability to design complex data architectures and entity relationships. Ability to design complex data movement and transformation solutions.
+Ability to assess and maintain data integrity and quality.
+Ability to collaborate with product team to deliver solutions using modern DevOps tools and best practices.
+Ability to create and maintain up to date documentation on architectural patterns and data standards.
+Ability to communicate clearly within the team and with product groups.
+Ability to make decisions where results have a major impact across the organization.
+Capacity to be aware of, control, and express one's emotions, and to handle interpersonal relationships judiciously and empathetically within product/project teams and with cross-portfolio and external stakeholder interactions.
+
+Employment Type: Temporary Fixed Term (12 Months)
+
+Salary Band: 6
+
+Location: Ontario (currently hybrid; subject to change)
+All applicants must be a resident of Ontario to be considered for roles at Ontario Health.
+
+Internal Application Deadline Date: October 15, 2024
+External Application Deadline Date: October 29, 2024
+
+Ontario Health encourages applications from candidates who are First Nations, Métis, Inuit, and urban Indigenous; Francophone; members of Black and racialized groups; 2SLGBTQIA+ communities; trans and nonbinary individuals; and people living with disabilities.
+Ontario Health is an accessible employer and we offer accommodation in all aspects of employment, including the recruitment process. If you require a disability related accommodation in order to participate in the recruitment process, please contact us and a member of the team will connect with you within 48 hours.
+
+#OH-IND-DIG
+#LI- SR1

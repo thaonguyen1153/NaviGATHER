@@ -1,0 +1,106 @@
+Oracle Middleware/DBA Analyst- job post
+CMiC
+3.4
+3.4 out of 5 stars
+Toronto, ON
+Full-time
+Profile insights
+Here’s how the job qualifications align with your profile.
+Skills
+
+Weblogic
+
+SharePoint
+
+SDLC
++ show more
+
+Do you have experience in Weblogic?
+Education
+
+Bachelor's
+
+Do you have a Bachelor's?
+&nbsp;
+Job details
+Here’s how the job details align with your profile.
+Job type
+
+Full-time
+Shift and schedule
+
+8 hour shift
+
+Weekends as needed
+
+Afternoon shift
++ show more
+&nbsp;
+Location
+Toronto, ON
+&nbsp;
+Benefits
+Pulled from the full job description
+Dental care
+Paid vacation
+RRSP match
+Wellness program
+&nbsp;
+Full job description
+Computer Methods International Corp. (CMiC) is a software Development firm specializing in enterprise financial and cost management systems designed for the Construction and Engineering industries.
+
+Duties & Responsibilities
+
+
+An opening currently exists for an Oracle Middleware/DBA Evening Analyst. Duties and responsibilities (may include, but are not limited to, the following):
+
+
+Working hours for this position will be either in 8 am to 4.30 pm EST or 2 to 10.30 pm EST.
+Accountable for the deployment, development, enhancement, support and maintenance of databases within our Enterprise application
+Develops/improves database standards ensuring CMiC meets our overall SLA's in order to provide optimum maintenance and consistency across applications
+Research technical problems, analyze business requirements, evaluate alternative design approaches, and design technical processes to meet business requirements
+Participates in project and team meetings interacting and collaborating with team members and other departments as appropriate
+Estimate and document required work effort to develop, test and implement new technical processes/changes
+Create technical documentation of implementation activities for management and other team members
+Test and debug program units in conjunction with other units and/or systems and integrate with other program modules and systems
+Provides technical support and mentoring to other team members in order to foster professional development
+Provide guidance, support and reporting with other management members
+Other related duties as assigned
+We are looking for a candidate who is technically sound with strong communication and leadership skills.
+
+Requirements
+
+College/University Degree - preferable in Computer Science, Electrical/Software Engineering or Math/Physics (Computer Sc. stream) or equivalent experience
+Minimum 5 years in Oracle DBA, systems analysis, programming or a comparable role within a software company and proven problem-solving skills
+Minimum 2 years of management experience
+Working in the morning shift (8-4.30 pm EST) or evening shift (2-10.30 pm EST) is a must.
+Experience with web-based client applications and enterprise deployment strategies (load balancing and high availability installs)
+Should have previous hands-on technical working experience with the following Technologies:
+Oracle Application Weblogic Server 11g/12c is a must
+Oracle Identity 10g/11g/12c is a must
+Oracle Access Manager 12c is a must
+Oracle Forms
+Oracle Reports
+Oracle Database 11g/12c/18c
+J2EE Programs
+Knowledge of RAC is welcome.
+Knowledge of DataGuard is welcome.
+Some in-depth knowledge of design and analysis methodology and application development processes from both a Business (Project Management/Accounting) and IT perspective
+Solid understanding of Software Development Lifecycle (SDLC) and Quality Assurance (QA) requirements
+Experience working with clients or in a team-based environment and working under pressure/time constraints
+Shift work: CMIC DBA Services has multiple shifts and provides coverage from 7 am to 11.59 pm EST. The applicant needs to understand that the shift might not be standard 9-5 pm EST and needs to be comfortable working very early or in the afternoon. Once the shift is established, the hours don’t change significantly but are subject to change.
+On-Call requirements: Applications understand that they will be participating in on-call rotation for the weekends to cover the issues, projects or outages that occur on the weekend.
+Excellent written and oral communication skills
+Proficiency using MS Office Products
+Proficiency using MS SharePoint
+Benefits
+
+Competitive benefits Package (including Health & Dental benefits)
+Paid vacation and personal days
+Quarterly townhall meetings where all employees are encouraged to participate in open discussions
+An active Social Events Committee (past events include annual seasonal parties, pool and bowling tournaments, karaoke nights, Game nights, BBQ’s, and more)
+Health and Wellness focus including virtual yoga classes and wellness webinars
+RRSP Matching Program after 2 years of employment
+Availability for some remote work
+Experience in a rapidly growing, socially responsible corporation
+CMiC is an Equal Opportunity Employer. In accordance with the Accessibility for Ontarians with Disabilities Act, 2005 and the Ontario Human Rights Code, CMiC will provide accommodation to applicants with disabilities throughout the recruitment, selection and/or assessment process. If selected to participate in the recruitment, selection and/or assessment process, please inform Human Resources staff of the nature of any accommodation(s) that you may require.
